@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="KOI8-r"?><response status="ok"><movie id="2">
+<title><![CDATA[ Бумер2 - Трейлер к фильму ]]></title>
+<description><![CDATA[ Фильм не смотрела. Ничего сказать не могу. Надеюсь, что те, кто посмотрели, оставят здесь комментарии. ]]></description>
+<author>GalinaK</author>
+<size>3.79Mb</size>
+<duration>01:53</duration>
+<recordDate>15 окт 2006</recordDate>
+<hits>1827</hits>
+<rating>0.899178065801713</rating>
+<votes>5</votes>
+
+<numberOfComments>1</numberOfComments>
+<categoryName>Кино, ТВ, телешоу</categoryName>
+<categoryLink>?rt_category=5</categoryLink>
+<movieLink>?rt_movie_id=2</movieLink>
+<playerLink>http://video.rutube.ru/37ebbd4d748997f5876055a868810e14</playerLink>
+<playerCode><OBJECT width="470" height="353"><PARAM name="movie" value="http://video.rutube.ru/37ebbd4d748997f5876055a868810e14"></PARAM><PARAM name="wmode" value="window"></PARAM><PARAM name="allowFullScreen" value="true"></PARAM><EMBED src="http://video.rutube.ru/37ebbd4d748997f5876055a868810e14" type="application/x-shockwave-flash" wmode="window" width="470" height="353" allowFullScreen="true" ></EMBED></OBJECT></playerCode>
+<playerCodeToShare><![CDATA[ <OBJECT width="470" height="353"><PARAM name="movie" value="http://video.rutube.ru/37ebbd4d748997f5876055a868810e14"></PARAM><PARAM name="wmode" value="window"></PARAM><PARAM name="allowFullScreen" value="true"></PARAM><EMBED src="http://video.rutube.ru/37ebbd4d748997f5876055a868810e14" type="application/x-shockwave-flash" wmode="window" width="470" height="353" allowFullScreen="true" ></EMBED></OBJECT> ]]></playerCodeToShare>
+<thumbnailLink>http://img.rutube.ru/thumbs/37/eb/37ebbd4d748997f5876055a868810e14-1.jpg</thumbnailLink>
+<thumbnailSmallLink>http://img.rutube.ru/thumbs/37/eb/37ebbd4d748997f5876055a868810e14-3.jpg</thumbnailSmallLink>
+<thumbnailMediumLink>http://img.rutube.ru/thumbs/37/eb/37ebbd4d748997f5876055a868810e14-2.jpg</thumbnailMediumLink>
+
+<status>0</status>
+<recordDateUnix>1160912888</recordDateUnix>
+<tags>трейлер к фильму,бумер2</tags>
+</movie>
+</response>
