@@ -1,3 +1,5 @@
+# Read http://github.com/raganwald/homoiconic/blob/master/2008-10-30/thrush.markdown for details
+
 Object into := method(
 	a0 := call argAt(0)
 	a1 := call argAt(1)

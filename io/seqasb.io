@@ -1,3 +1,5 @@
+# The following is partial implementation of (http://osteele.com/sources/javascript/functional/) String lambdas
+
 Regex
 
 Sequence asB := method(

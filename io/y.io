@@ -18,13 +18,3 @@ y := block(generator,
 		)
 	)
 )
-
-factorial := y call(
-	block(callback,
-		block(arg,
-			if(arg == 0, 1, arg * callback call(arg - 1))
-  	)
-  )
-)
-
-factorial call(5)  # => 120
