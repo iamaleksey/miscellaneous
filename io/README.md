@@ -48,22 +48,22 @@
 
 	"x, y -> x + y" asB # ==>
 	method(x, y, 
-    x + y
+		x + y
 	)
 	
 	"_ isOdd" asB # ==>
 	method(_, 
-    _ isOdd
+		_ isOdd
 	)
 	
 	"**" asB  # ==> 
 	method(x, y, 
-    x ** y
+		x ** y
 	)
 	
 	"** 2" asB # ==>
 	method(_, 
-    _ ** 2
+		_ ** 2
 	)
 
 ## tap.io
@@ -78,8 +78,8 @@
 		block(callback,
 			block(arg,
 				if(arg == 0, 1, arg * callback call(arg - 1))
-  		)
-  	)
+			)
+		)
 	)
 
 	factorial call(5)  # ==> 120
